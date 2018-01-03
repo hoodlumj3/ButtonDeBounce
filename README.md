@@ -3,14 +3,7 @@ Arduino code for button deBounce via inPin and / or ps3Nav SHADOW
 
 
 Adds Extra button functionality to the SHADOW system 
-like:-
-Click
-
-DoubleClick
-
-Hold
-
-LongHold
+like:- Click, DoubleClick, Hold, LongHold
 
 =--= Paste contents of .ino file into shadow code =--=
 

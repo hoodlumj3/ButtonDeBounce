@@ -1,6 +1,10 @@
 # ButtonDeBounce
 Arduino code for button deBounce via inPin and / or ps3Nav SHADOW
 
+=----------------------------------------------------=
+=--= Paste contents of .ino file into shadow code =--=
+=----------------------------------------------------=
+
 Adds Extra button functionality to the SHADOW system 
 like
 Click
@@ -10,6 +14,7 @@ LongHold
 
 Button timings can be altered in code 
 See .ino file for more info.
+
 
 http://astromech.net/droidwiki/SHADOW_MD
 

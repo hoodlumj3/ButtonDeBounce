@@ -1,9 +1,7 @@
 # ButtonDeBounce
 Arduino code for button deBounce via inPin and / or ps3Nav SHADOW
 
-=----------------------------------------------------=
 =--= Paste contents of .ino file into shadow code =--=
-=----------------------------------------------------=
 
 Adds Extra button functionality to the SHADOW system 
 like
